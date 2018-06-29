@@ -1,0 +1,24 @@
+.blue{
+background-color:blue;
+height:150px; 
+width:150px; 
+margin:25px
+
+
+}
+
+
+.original{
+    height:150px; 
+    width:150px;
+    background-color:orange; 
+    margin:25px
+}
+
+.grow{
+    height:150px; 
+    width:150px;
+    margin:25px
+    
+}
+
